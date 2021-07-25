@@ -1,13 +1,13 @@
-**/README.md
-**/pom.xml
+!**/README.md
+!**/pom.xml
 **/build.sbt
-**/*.gradle
+!**/*.gradle
 **/.travis.yml
-**/.gitignore
+!**/.gitignore
 **/git_push.sh
 **/api/*
-**/gradle*
-**/gradle
+!**/gradle*
+!**/gradle
 **/src/main/AndroidManifest.xml
 
 # https://issues.apache.org/jira/browse/FINERACT-1231
